@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-sample-apps",
+  "versions": [
+    {
+      "commit": "ebabf377d3be3d08752d53dfd04d1a59d7d164f1",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:21:55.912196+00:00"
+    }
+  ]
+}
